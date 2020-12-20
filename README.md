@@ -1,2 +1,5 @@
-# javascript-projects
-A repository that is utilized for my JavaScript projects
+### Hi 👋, my name is Kye, and welcome to #javascript-projects
+
+This repository will be utilized for Javascript projects
+
+****
